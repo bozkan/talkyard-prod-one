@@ -118,11 +118,14 @@ Installation instructions
    In the browser, click _Continue_ and create an admin account
    with the email address you specified when you edited `play-framework.conf` earlier (see above).
    Follow the getting-started guide.
+   <i>Maybe you'd like to <b>enable HTTPS</b> even before you click Continue
+   and type your email address — see the first line in Next Steps just below.</i>
 
 Everything will restart automatically on server reboot.
 
 Next steps:
 
+- Enable HTTPS, see [docs/setup-https.md](docs/setup-https.md).
 - Sign up for a send-email-service — see the section just below.
 - Send an email to `hello at talkyard.io` so we get your address, and can
   inform you about security issues and major software
